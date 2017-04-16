@@ -6,7 +6,10 @@ You can download the SQL SERVER version [https://data.world/harsha547/ipl-sql-se
 
 ##  SQL Questions
 
+
+
 [1]   &nbsp;&nbsp; Centuries in Indian Premier League ( 2008 - 2016 )
+
 [2]   &nbsp;&nbsp; Top Ten Highest Scores in Indian Premier League.
 [3]   &nbsp;&nbsp; Players with most centuries in Indian Premier League
 [4]   &nbsp;&nbsp; Highest wicket takers in Indian Premier League
