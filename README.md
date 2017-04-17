@@ -68,3 +68,6 @@ You can download the SQL SERVER version [https://data.world/harsha547/ipl-sql-se
 
 [30]  &nbsp;&nbsp; Top five run-scorers in Season 9 ( 2016 )
 
+
+[31]  &nbsp;&nbsp; Total_Matches , Won_Matches , Winning_percentage by Team 
+
