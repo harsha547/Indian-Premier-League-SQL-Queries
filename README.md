@@ -71,3 +71,5 @@ You can download the SQL SERVER version [https://data.world/harsha547/ipl-sql-se
 
 [31]  &nbsp;&nbsp; Total_Matches , Won_Matches , Winning_percentage by Team 
 
+
+[32]  &nbsp;&nbsp; Winning_Percentage by matches played by Kings XI Punjab on Monday
