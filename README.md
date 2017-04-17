@@ -73,3 +73,4 @@ You can download the SQL SERVER version [https://data.world/harsha547/ipl-sql-se
 
 
 [32]  &nbsp;&nbsp; Winning_Percentage by matches played by Kings XI Punjab on Monday
+[33]  &nbsp;&nbsp; Matches Captained  and won by Steve Smith in IPL 
