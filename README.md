@@ -111,3 +111,4 @@ You can download the SQL SERVER version [https://data.world/harsha547/ipl-sql-se
 
 
 [35]  &nbsp;&nbsp; Bowlers which conceeded most sixes
+[36]  &nbsp;&nbsp; IPL Batsman who stayed in the crease till the last ball with highest score ( Nanda Kumar)
